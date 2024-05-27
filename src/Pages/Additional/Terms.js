@@ -23,8 +23,8 @@ const Terms = () => {
               </svg>
             </Link>
           </div>
-          <div className="p-2">
-            <div className="flex flex-col shadow-lg  bg-[#E5E8F2] items-center p-4">
+          <div className="p-2 shadow-inner">
+            <div className="flex flex-col shadow-lg  bg-[#E5E8F2] items-center p-4 rounded-md">
               <h1 className="text-[22px] font-medium mt-2 text-center">
                 Terms and Conditions
               </h1>

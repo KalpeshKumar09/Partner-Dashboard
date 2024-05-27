@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 const Setting = () => {
   return (
-    <div className="flex justify-center py-2 ">
+    <div className="flex justify-center py-2 min-h-screen">
       <div className="bg-gray-100 flex flex-col">
         <div className="flex flex-col md:min-w-[800px] min-w-6xl">
           <div className="bg-white p-2 ">

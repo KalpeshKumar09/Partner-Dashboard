@@ -23,7 +23,7 @@ const ChangePassword = () => {
               </svg>
             </Link>
           </div>
-          <div className="p-2">
+          <div className="p-2 shadow-inner">
             <div className=" flex flex-col items-center rounded-lg  bg-[#E5E8F2] ">
               <div className=" flex p-1 items-center ">
                 <div className="flex gap-2 flex-col ">
