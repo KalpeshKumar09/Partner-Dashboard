@@ -1,0 +1,12 @@
+.dropdown:focus-within .dropdown-menu {
+  opacity: 1;
+  transform: translate(0) scale(1);
+  visibility: visible;
+}
+
+
+.active-link {
+  background-color: violet;
+  padding: 0.5rem 1rem;
+  border-radius: 0.25rem;
+}
